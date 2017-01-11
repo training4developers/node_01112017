@@ -1,6 +1,6 @@
 # Welcome to Node.js Class!
 
-# Instructor
+## Instructor
 
 Eric Greene [linkedin.com/in/ericwgreene](linkedin.com/in/ericwgreene)
 
@@ -11,6 +11,7 @@ Classes:
 - Wednesday - Friday: 9:00am to 4:30pm
 
 Breaks:
+
 - Morning: 10:25am to 10:35am
 - Lunch: 12:00pm to 1pm
 - Afternoon #1: 2:15pm to 2:25pm
